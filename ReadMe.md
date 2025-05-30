@@ -15,9 +15,9 @@ This project features an interactive dashboard built with Microsoft Power BI to 
     - Map slicers (e.g., weather conditions and road surface types)
 
 ## Primary KPIs :
-- Total Casualties and Total Accidents (2022 vs 2021)
-- Casualties by Accident Severity with YoY growth
-- Casualties by Vehicle Type (2022)
+- **Total Casualties and Total Accidents (2022 vs 2021)**
+- **Casualties by Accident Severity with YoY growth**
+- **Casualties by Vehicle Type (2022)**
 
 ## Key Insights
 - Primary stakeholders include the Ministry of Transport, Road Transport Department, Police, Emergency Services, Traffic Management Agencies, Media, and the Public.
@@ -37,6 +37,9 @@ This project features an interactive dashboard built with Microsoft Power BI to 
 - Power BI – Visualization and dashboard development
 - DAX (Data Analysis Expressions) – Custom measures and calculations
 - Excel – Initial data preparation and cleaning
+
+## Dashboard Preview
+![DashboardPreview](https://github.com/user-attachments/assets/eec30de6-0e72-4590-aa8e-fdde19aa16a0)
 
 ---
 
