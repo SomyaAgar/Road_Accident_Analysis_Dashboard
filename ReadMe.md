@@ -14,7 +14,7 @@ This project features an interactive dashboard built with Microsoft Power BI to 
     - Image imports
     - Map slicers (e.g., weather conditions and road surface types)
 
-## Primary KPIs :
+## Primary KPIs
 - **Total Casualties and Total Accidents (2022 vs 2021)**
 - **Casualties by Accident Severity with YoY growth**
 - **Casualties by Vehicle Type (2022)**
@@ -37,6 +37,9 @@ This project features an interactive dashboard built with Microsoft Power BI to 
 - Power BI – Visualization and dashboard development
 - DAX (Data Analysis Expressions) – Custom measures and calculations
 - Excel – Initial data preparation and cleaning
+
+## Dataset URL
+https://docs.google.com/spreadsheets/d/1SOej0H-zD251k1oNMQ5ZN1ZvlS4R8TUx/edit?usp=sharing&ouid=115895302605608932390&rtpof=true&sd=true
 
 ## Dashboard Preview
 ![DashboardPreview](https://github.com/user-attachments/assets/eec30de6-0e72-4590-aa8e-fdde19aa16a0)
